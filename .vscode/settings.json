@@ -31,7 +31,7 @@
         "BLENDER_USER_RESOURCES": "C:\\_\\userdata",
     },
     "blender.addonFolders": [
-        "b3d",
+        // "b3d",
         "pynodes",
     ],
     "blender.additionalArguments": [
